@@ -44,7 +44,7 @@ http://localhost:3000
 ## 環境変数
 
 - `OPENAI_API_KEY`: OpenAI APIキー
-- `OPENAI_MODEL`: 使用するモデル（デフォルト: gpt-3.5-turbo）
+- `OPENAI_MODEL`: 使用するモデル（デフォルト: gpt-4o）
 
 ## 開発
 
