@@ -51,7 +51,3 @@ http://localhost:3000
 - `docker compose up`: 開発サーバーの起動
 - `docker compose down`: サーバーの停止
 - `docker compose build --no-cache`: イメージの再ビルド
-
-## ライセンス
-
-MIT
